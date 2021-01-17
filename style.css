@@ -1,0 +1,17 @@
+.show-text{
+    position: relative;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.btn{
+    background: gray;
+    color: black;
+    font-size: 1rem;
+    align-self: center;
+    border-radius: 5px;
+}
+.btn:hover{
+    background: black;
+    color: gray;
+}
